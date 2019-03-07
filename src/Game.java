@@ -1,7 +1,8 @@
 public class Game {
-    private Board _board;
+    private static Board _board;
 
     public static void main(String[] args) {
-
+        _board = new Board();
+        _board.printBoard();
     }
 }
