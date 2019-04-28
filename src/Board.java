@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//A new comment.
 public class Board {
     public final static int BOARD_SIZE = 15;
     public final static String INDENT = "    ";
